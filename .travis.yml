@@ -4,7 +4,7 @@ matrix:
   include:
     - os: linux
       dist: trusty
-      go: 1.5.x
+      go: 8.9.x
     - os: linux
       dist: trusty
       go: 1.6.x
